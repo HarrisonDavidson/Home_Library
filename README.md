@@ -12,5 +12,5 @@ This is an app that will help users track their collection of media.
 Whether you are a collector like me, or you just want to avoid buying the same thing twice-
 This app will help us both.
 
-This app tracks movies, shows, music, and video games-
+This app tracks movies, shows, music, video games, and books-
 with the ability to select which format the content is in.
