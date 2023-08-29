@@ -14,3 +14,9 @@ This app will help us both.
 
 This app tracks movies, shows, music, video games, and books-
 with the ability to select which format the content is in.
+
+After completing v1 of the app, v2 may contain features such as:
+creating a wishlist of things the user wishes to own, and marking items with a condition
+such as 'Like new', 'Unopened', 'Damaged, plays', or 'Damaged, doesn't play'
+so users can understand what they might need to replace, and collectors can know what they 
+might need a second copy of so they don't have to open their valubale collectibles to enjoy their favorite content.
