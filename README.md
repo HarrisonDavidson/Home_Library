@@ -3,7 +3,7 @@
 I am an avid collector of physical media. 
 
 The benefits of listening to music on vinyl vs CD vs .mp3 continue to be debated,
-but the contest between VHS and DVD, or DVD and Blue-ray has long been settled.
+but the contest between VHS and DVD, or DVD and Blu-ray has long been settled.
 
 Still, without rhyme or reason, I love my collection of VHS tapes and albums on cassette.
 
