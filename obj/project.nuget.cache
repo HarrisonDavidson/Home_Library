@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YtDOBsm4tlgleMuHA+bfklv1UgNilgW9ZHuZbZkb5wCy3V96R308KxOAG46hrKeDhJnL374IjD1uw5ATOI0Yvg==",
+  "dgSpecHash": "u+Kz2vIV+mMmhC/YsBqI4TzXJWlBEWxWqRYD1/5kUjyh6nIGT6wG1Q1vdbvUJcYUhNek2uwy1TMImVK4vRl/pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bigol\\workspace\\HomeTheaterLibrary\\HomeLibrary.csproj",
+  "projectFilePath": "C:\\Users\\bigol\\workspace\\HomeLibrary\\HomeLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bigol\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\bigol\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

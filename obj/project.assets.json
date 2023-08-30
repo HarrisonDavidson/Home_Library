@@ -2221,11 +2221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bigol\\workspace\\HomeTheaterLibrary\\HomeLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\bigol\\workspace\\HomeLibrary\\HomeLibrary.csproj",
       "projectName": "HomeLibrary",
-      "projectPath": "C:\\Users\\bigol\\workspace\\HomeTheaterLibrary\\HomeLibrary.csproj",
+      "projectPath": "C:\\Users\\bigol\\workspace\\HomeLibrary\\HomeLibrary.csproj",
       "packagesPath": "C:\\Users\\bigol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bigol\\workspace\\HomeTheaterLibrary\\obj\\",
+      "outputPath": "C:\\Users\\bigol\\workspace\\HomeLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bigol\\AppData\\Roaming\\NuGet\\NuGet.Config",
